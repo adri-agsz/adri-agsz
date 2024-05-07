@@ -21,7 +21,7 @@ Actualmente soy estudiante de la carrera de ITC. Me apasiona múlitples areas re
 
 ...
 
-### Lenguajes y herramientas utilizadas
+### 💼 Lenguajes y herramientas utilizadas
 
 <img align="left" alt="Java" width="30px" stule="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="30px" stule="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"/>
@@ -35,3 +35,7 @@ Actualmente soy estudiante de la carrera de ITC. Me apasiona múlitples areas re
 <img align="left" alt="Java" width="30px" stule="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
 <img align="left" alt="Java" width="30px" stule="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="Java" width="30px" stule="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+
+...
+
+![adri-agsz's Stats](https://github-readme-stats.vercel.app/api?username=adri-agsz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
