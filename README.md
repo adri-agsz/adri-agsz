@@ -36,7 +36,10 @@ Actualmente soy estudiante de la carrera de ITC. Me apasiona múlitples areas re
 <img align="left" alt="Java" width="30px" stule="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="Java" width="30px" stule="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
 
----
+<br/>
+<br/>
+
+#
 
 ### 💼 Estadísticas de github
 
