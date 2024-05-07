@@ -5,6 +5,7 @@
 ## Sobre mi
 
 **`Estudiante en la carrera de Ingeniería en Tecnologías Computacionales`**
+
 Actualmente soy estudiante de la carrera de ITC. Me apasiona múlitples areas relacionadas a la computación, así como combinar esta disciplina con otras áreas del conocimiento. Los proyectos aquí desplegados son, ante todo, proyectos escolares. Todos los proyectos mostrados son construidos desde cero: desde la planeación y el diseño hasta la solución final. Aunque principalmente relacionados con el desarrollo web, cada uno de ellos destaca algunas por mostrar
 <br>
 
@@ -25,16 +26,14 @@ Actualmente soy estudiante de la carrera de ITC. Me apasiona múlitples areas re
 
 <br/>
 
-#
-
 ## Mis proyectos
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Creación de software educativo</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/adri-agsz/construcciondesoftware" target="_blank"><img src="https://imgur.com/rqzWnb5" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
