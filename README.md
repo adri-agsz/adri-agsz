@@ -5,11 +5,8 @@
 ## Sobre mi
 
 **`Estudiante en la carrera de Ingeniería en Tecnologías Computacionales`**
-
 Actualmente soy estudiante de la carrera de ITC. Me apasiona múlitples areas relacionadas a la computación, así como combinar esta disciplina con otras áreas del conocimiento. Los proyectos aquí desplegados son, ante todo, proyectos escolares. Todos los proyectos mostrados son construidos desde cero: desde la planeación y el diseño hasta la solución final. Aunque principalmente relacionados con el desarrollo web, cada uno de ellos destaca algunas por mostrar
 <br>
-
----
 
 ### 🔨 Lenguajes y herramientas utilizadas
 
