@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**`Estudiante en la carrera de Ingeniería en Tecnologías Computacionales`**
+
+Actualmente soy estudiante de la carrera de ITC. Me apasiona múlitples areas relacionadas a la computación y combinar esta disciplina con otras áreas del conocimiento. Los proyectos aquí desplegados son, ante todo, proyectos escolares. Todos los proyectos mostrados son construidos desde cero: desde la planeación y el diseño hasta la solución final
