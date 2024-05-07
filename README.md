@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 Actualmente soy estudiante de la carrera de ITC. Me apasiona múlitples areas relacionadas a la computación, así como combinar esta disciplina con otras áreas del conocimiento. Los proyectos aquí desplegados son, ante todo, proyectos escolares. Todos los proyectos mostrados son construidos desde cero: desde la planeación y el diseño hasta la solución final. Aunque principalmente relacionados con el desarrollo web, cada uno de ellos destaca algunas por mostrar
 
+...
+
 ### Lenguajes y herramientas utilizadas
 
 <img align="left" alt="Java" width="30px" stule="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
