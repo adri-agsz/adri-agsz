@@ -33,13 +33,10 @@ Actualmente soy estudiante de la carrera de ITC. Me apasiona múlitples areas re
 <td width="50%">
 <h3 align="center">Creación de software educativo</h3>
 <div align="center">
-<a href="https://github.com/adri-agsz/construcciondesoftware" target="_blank"><img src="https://imgur.com/rqzWnb5.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/adri-agsz/construcciondesoftware" target="_blank"><img src="https://imgur.com/rqzWnb5.jpg" width="400" alt="Pantalla de inicio de videojuego"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="hhttps://github.com/adri-agsz/construcciondesoftware" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
