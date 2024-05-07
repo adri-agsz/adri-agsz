@@ -1,4 +1,4 @@
-### Hi there 👋
+## 🌱Adrián Aguilar
 
 <!--
 **adri-agsz/adri-agsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 **`Estudiante en la carrera de Ingeniería en Tecnologías Computacionales`**
 
-Actualmente soy estudiante de la carrera de ITC. Me apasiona múlitples areas relacionadas a la computación y combinar esta disciplina con otras áreas del conocimiento. Los proyectos aquí desplegados son, ante todo, proyectos escolares. Todos los proyectos mostrados son construidos desde cero: desde la planeación y el diseño hasta la solución final
+Actualmente soy estudiante de la carrera de ITC. Me apasiona múlitples areas relacionadas a la computación, así como combinar esta disciplina con otras áreas del conocimiento. Los proyectos aquí desplegados son, ante todo, proyectos escolares. Todos los proyectos mostrados son construidos desde cero: desde la planeación y el diseño hasta la solución final. Aunque principalmente relacionados con el desarrollo web, cada uno de ellos destaca algunas por mostrar
