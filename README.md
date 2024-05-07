@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Adrián 👋</h1>
 </div>
 
-## Sobre mi
+### Sobre mi
 
 **`Estudiante en la carrera de Ingeniería en Tecnologías Computacionales`**
 
@@ -35,34 +35,48 @@ Actualmente soy estudiante de la carrera de ITC. Me apasiona múlitples areas re
 <div align="center">
 <a href="https://github.com/adri-agsz/construcciondesoftware" target="_blank"><img src="https://imgur.com/rqzWnb5.jpg" width="400" alt="Pantalla de inicio de videojuego"></a>
 <p>
-<a href="hhttps://github.com/adri-agsz/construcciondesoftware" target="_blank">
+<a href="https://github.com/adri-agsz/construcciondesoftware" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p> En este proyecto se desarrolló un videojuego educativo en Unity para que niños y niñas de primaria pudieran reforzar sus conocimientos acerca de algunos temas de matemáticas. Se hizo además un dashboard usando para que los profesores pudieran consutlar métricas del desempeño de los alumnos en el videojuego. El servidor se creo utilizando Django.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Sistemas Mulitagentes</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/adri-agsz/Multiagentes" target="_blank"><img src="https://imgur.com/QwZjiPp.jpg" width="400" alt="Sistemas Mulitagentes"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/adri-agsz/Multiagentes" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>En este proyecto se simuló el comportamiento de agentes carros y metrobuses en una glorieta concurrida. Con teoría de juegos, se buscó encontrar la probabilidad de los carros de invadir la linea del metrobús cambiando la cantidad de la multa.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Creación de app movil para organización de educación social</h3>
+<div align="center">
+<a href="https://github.com/A01661436/SEL4C_App" target="_blank"><img src="https://imgur.com/SnNWPKS.jpg" width="400" alt="Creación de app movil para organización de educación social"></a>
+<p>
+<a href="https://github.com/A01661436/SEL4C_App" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p> En este proyecto se desarrolló una aplicación para IPhone para un organización educativa. La aplicación cuenta con encuestas de diagnóstico, actividades a entregar y métricas de progreso </p>
+</div>
+                                                                                      
+</td>
+</table>
 
 <br/>
 
